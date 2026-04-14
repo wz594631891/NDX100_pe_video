@@ -1,1 +1,2 @@
 cropped_frames filter=lfs diff=lfs merge=lfs -text
+cropped_frames.db filter=lfs diff=lfs merge=lfs -text
